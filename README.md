@@ -7,6 +7,7 @@ mini-project using html/css/js
 
 ##Features
 -student login
+    -added login feature section
 -dashboard
 -attendence Module
 
